@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.xrosstools</groupId>
-  <artifactId>xstate</artifactId>
+  <artifactId>xdecision</artifactId>
   <versioning>
     <versions>
       <version>0.9.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160905113303</lastUpdated>
+    <lastUpdated>20160905115332</lastUpdated>
   </versioning>
 </metadata>
